@@ -21,7 +21,7 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Incoming Software Development Intern at Datadog <span> New York, Fall 2020</span></h2>
+                        <h2>Incoming Software Development Intern at Datadog <span> New York NY, Fall 2020</span></h2>
                         <p>Will start in August and last until December 2020. </p>
                       </div>
                     </div>
@@ -32,7 +32,7 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Incoming Software Development Intern at Amazon<span> Seattle, Summer 2020</span></h2>
+                        <h2>Incoming Software Development Intern at Amazon<span> Seattle WA, Summer 2020</span></h2>
                         <p>Will start in May and last until August 2020.</p>
                       </div>
                     </div>
@@ -44,7 +44,7 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Software Engineering Intern at MassMutual <span> Boston, Summer 2019</span></h2>
+                        <h2>Software Engineering Intern at MassMutual <span> Boston MA, Summer 2019</span></h2>
                         <p>Blah blah</p>
 
                       </div>
@@ -57,7 +57,7 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Software Engineering Intern at Eaton <span> Kalamazoo, Summer 2018</span></h2>
+                        <h2>Software Engineering Intern at Eaton <span> Kalamazoo MI, Summer 2018</span></h2>
                         <p>Blah blah</p> 
                       </div>
                     </div>
@@ -69,7 +69,7 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Software Engineering Intern at JHU Applied Physics Lab <span> Laurel, Summer 2017</span></h2>
+                        <h2>Software Engineering Intern at JHU Applied Physics Lab <span> Laurel MD, Summer 2017</span></h2>
                         <p>Blah blah</p> 
                       </div>
                     </div>

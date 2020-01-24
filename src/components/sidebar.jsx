@@ -9,9 +9,9 @@ export default class Sidebar extends Component {
           <aside id="colorlib-aside" className="border js-fullheight">
             <div className="text-center">
               <div className="author-img" style={{backgroundImage: 'url(images/andrew.jpg)'}} />
-              <h1 id="colorlib-logo"><a href="index.html">Andrew Zhang</a></h1>
+              <h1 id="colorlib-logo"><a>Andrew Zhang</a></h1>
             </div>
-            
+            <br></br>
             <nav id="colorlib-main-menu" role="navigation" className="navbar">
               <div id="navbar" className="collapse">
                 <ul>
@@ -19,6 +19,7 @@ export default class Sidebar extends Component {
                   <li><a href="#about" data-nav-section="about">About</a></li>
                   <li><a href="#timeline" data-nav-section="timeline">Timeline</a></li>
                   <li><a href="#oncampus" data-nav-section="oncampus">On Campus</a></li>
+                  <li><a href="#projects" data-nav-section="projects">Projects</a></li>
                 </ul>
               </div>
             </nav>

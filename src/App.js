@@ -5,6 +5,8 @@ import Introduction from './components/introduction'
 import About from './components/about'
 import Timeline from './components/timeline'
 import OnCampus from './components/oncampus'
+import Projects from './components/projects'
+
 class App extends Component {
   render() {
     return (
@@ -16,6 +18,7 @@ class App extends Component {
 					<About></About>
 					<Timeline></Timeline>
 					<OnCampus></OnCampus>
+					<Projects></Projects>
           	</div>
       	</div>
       </div>
