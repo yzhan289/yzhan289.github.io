@@ -23,10 +23,6 @@ export default class Sidebar extends Component {
                 </ul>
               </div>
             </nav>
-            
-            <div className="colorlib-footer">
-              <p>Welcome to my site! </p>
-            </div>
 
             <nav id="colorlib-main-menu">
               <ul>
