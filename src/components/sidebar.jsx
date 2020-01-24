@@ -8,9 +8,9 @@ export default class Sidebar extends Component {
           <nav href="#navbar" className="js-colorlib-nav-toggle colorlib-nav-toggle" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"><i /></nav>
           <aside id="colorlib-aside" className="border js-fullheight">
             <div className="text-center">
-              <div className="author-img" style={{backgroundImage: 'url(images/about.jpg)'}} />
-              <h1 id="colorlib-logo"><a href="index.html">Dhruv Barochiya</a></h1>
-              <span className="email"><i className="icon-mail"></i> Dhruv.barochiya34788@gmail.com</span>
+              <div className="author-img" style={{backgroundImage: 'url(images/andrew.jpg)'}} />
+              <h1 id="colorlib-logo"><a href="index.html">Andrew Zhang</a></h1>
+              <span className="email"><i className="icon-mail"></i> yzhan289@jhu.edu</span>
             </div>
             <nav id="colorlib-main-menu" role="navigation" className="navbar">
               <div id="navbar" className="collapse">
@@ -23,12 +23,12 @@ export default class Sidebar extends Component {
             </nav>
             <nav id="colorlib-main-menu">
               <ul>
-                <li><a href="https://www.linkedin.com/in/dhruv-b-545b52a9/" target="_blank" rel="noopener noreferrer"><i className="icon-linkedin2" /></a></li>
-                <li><a href="https://github.com/Dhruv34788" target="_blank" rel="noopener noreferrer"><i className="icon-github"></i></a></li>
+                <li><a href="https://www.linkedin.com/in/yzhan289/" target="_blank" rel="noopener noreferrer"><i className="icon-linkedin2" /> LinkedIn</a></li>
+                <li><a href="https://github.com/Dhruv34788" target="_blank" rel="noopener noreferrer"><i className="icon-github"></i> GitHub</a></li>
               </ul>
             </nav>
             <div className="colorlib-footer">
-              <p>Hello</p>
+              <p>Welcome to my site! </p>
             </div>
           </aside>
         </div>
