@@ -12,16 +12,15 @@ export default class Projects extends Component {
                 <h2 className="colorlib-heading">Here are some of my projects</h2>
               </div>
             </div>
-						<div>Currently in progress!</div>
-            {/* <div className="row row-pt-md">
+            <div className="row row-pt-md">
               <div className="col-md-4 text-center animate-box">
                 <div className="services color-1">
                   <span className="icon">
                     <i className="icon-code" />
                   </span>
                   <div className="desc">
-                    <h3>HopHacks</h3>
-                    <p>I am the current director at my school's hackathon organizing group, HopHacks! I manage a team of 20+ other students to run a hackathon attended by 350 students from around the world. It is a really fun experience, and I'm excited for the future of HopHacks!</p>
+                    <h3>Project 1</h3>
+										<p>Blah Blah</p>
                   </div>
                 </div>
               </div>
@@ -31,7 +30,7 @@ export default class Projects extends Component {
                     <i className="icon-flag" />
                   </span>
                   <div className="desc">
-                    <h3>Inter Asian Council</h3>
+                    <h3>Project 2</h3>
                     <p>Blah blah</p>
                   </div>
                 </div>
@@ -42,12 +41,24 @@ export default class Projects extends Component {
                     <i className="icon-power" />
                   </span>
                   <div className="desc">
-                    <h3>Hopkins Undergraduate Society for Applied Math</h3>
+                    <h3>Project 3</h3>
                     <p>Blah Blah</p>
                   </div>
                 </div>
               </div>
-            </div> */}
+
+							<div className="col-md-4 text-center animate-box">
+                <div className="services color-2">
+                  <span className="icon">
+                    <i className="icon-power" />
+                  </span>
+                  <div className="desc">
+                    <h3>Project 4</h3>
+                    <p>Blah Blah</p>
+                  </div>
+                </div>
+              </div>
+            </div>
           </div>
         </section>
       </div>

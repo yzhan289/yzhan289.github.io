@@ -45,8 +45,10 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Software Engineering Intern at MassMutual <span> Boston MA, Summer 2019</span></h2>
-                        <p>Blah blah</p>
-
+                        <p>Technologies used: Swift, Gitflow, Jira, Confluence, Java</p>
+                        <p>Worked as part of MassMutual's Mobile team working on their RetireSmart iOS app to develop screens for their Investment Selections feature.
+                          Also developed MassMutual's first iMessage app to calculate retirement trajectory (More information in the Projects section)
+                        </p>
                       </div>
                     </div>
                   </article>
@@ -58,7 +60,10 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Software Engineering Intern at Eaton <span> Kalamazoo MI, Summer 2018</span></h2>
-                        <p>Blah blah</p> 
+                        <p>Technologies used: ASP.NET, SQL, C#, Azure DevOps, Entity Framework</p> 
+                        <p>Worked as part of Eaton's Vehicle Group to develop a RESTful API that accesses Eaton's truck fleet server. 
+                          This API was implemented in ASP.NET and deployed on Azure. 
+                          Also built an accompanying SDK library as a platform for accessing the API. Used Entity Framework to connect to Eaton's SQL Server.</p>
                       </div>
                     </div>
                   </article>
@@ -70,7 +75,9 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Software Engineering Intern at JHU Applied Physics Lab <span> Laurel MD, Summer 2017</span></h2>
-                        <p>Blah blah</p> 
+                        <p>Technologies used: Python, MATLAB, Pointwise, </p>
+                        <p>Worked as part of the Applied Physics Lab's Force Projection Sector to develop base drag prediction tool in Python and MATLAB. 
+                          Analyzed base drag effects due to protuberances on projectiles using computational fluid dynamics and modeled these effects in Pointwise.</p> 
                       </div>
                     </div>
                   </article>
