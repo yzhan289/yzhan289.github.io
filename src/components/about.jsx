@@ -14,7 +14,7 @@ export default class About extends Component {
                       <span className="heading-meta">About</span>
                       <h2 className="colorlib-heading">Who Am I?</h2>
                       <p>
-                      Welcom to my website! My name is Andrew, and I'm currently a junior studying computer science at Johns Hopkins University graduating Spring 2021.
+                      Welcome to my website! My name is Andrew, and I'm currently a junior studying computer science at Johns Hopkins University graduating Spring 2021.
                       You can typically spot me at the Brody Learning Commons procrastinating or trying the (limited) selection of boba in Baltimore!
                       </p><p>
                       I'm a big fan of software development. I've played with a variety of different languages, but I've just started learning web dev using React. 

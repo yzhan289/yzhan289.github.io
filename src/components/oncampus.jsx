@@ -20,11 +20,9 @@ export default class OnCampus extends Component {
             <div className="row row-pt-md">
               <div className="col-md-4 text-center animate-box">
                 <div className="services color-1">
-                  <span className="icon">
-                    <i className="icon-code" />
-                  </span>
+                  <img src="images/hophacks.png" style={styles}/>
                   <div className="desc">
-                  <img src="images/hophacks.png" style={styles}/><br></br>
+                  
                   <h3>HopHacks</h3>
                   <p>I am the current director at my school's hackathon organizing group, HopHacks. I manage a team of 20+ other students to run a hackathon attended by over 300 students from around the world. It's been a really fun experience, and I'm excited for the future of HopHacks. Look forward to our next events!</p>
                    
@@ -34,11 +32,9 @@ export default class OnCampus extends Component {
               </div>
 							<div className="col-md-4 text-center animate-box">
                 <div className="services color-3">
-                  <span className="icon">
-                    <i className="icon-flag" />
-                  </span>
+                <img src="images/iac_logo.png" style={styles}/>
                   <div className="desc">
-                  <img src="images/iac_logo.png" style={styles}/><br></br>
+                  
                     <h3>Inter-Asian Council</h3>
                     <p>I am part of Johns Hopkins University's Inter-Asian Council (IAC). We serve as a medium for Asian Pacific groups at Hopkins to collaborate and to work together towards shared goals and causes. 
                       Every semester, we host events that promote the discussion of AAPI/APIA identiy.</p>
@@ -48,11 +44,8 @@ export default class OnCampus extends Component {
               </div>
               <div className="col-md-4 text-center animate-box">
                 <div className="services color-2">
-                  <span className="icon">
-                    <i className="icon-power" />
-                  </span>
+                <img src="images/husam_logo.png" style={styles}/>
                   <div className="desc">
-                    <img src="images/husam_logo.png" style={styles}/><br></br>
                     <h3>Hopkins Undergraduate Society for Applied Math</h3>
                     <p>I am a member of HUSAM, which serves as Hopkins' Applied Math Club. 
                       Our group aims to connect students with faculty members in the AMS department to strengthen the Applied Math Program at our institution.
