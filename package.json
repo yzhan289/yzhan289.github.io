@@ -1,6 +1,6 @@
 {
-  "homepage": "http://yzhan289.github.io/personal-website",
-  "name": "personal-website",
+  "homepage": "http://yzhan289.github.io",
+  "name": "yzhan289.github.io",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
