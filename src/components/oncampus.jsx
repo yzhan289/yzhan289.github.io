@@ -20,7 +20,7 @@ export default class OnCampus extends Component {
             <div className="row row-pt-md">
               <div className="col-md-4 text-center animate-box">
                 <div className="services color-1">
-                  <img src="images/hophacks.png" style={styles}/>
+                  <img src="images/hophacks.png" style={styles} alt='hophacks'/>
                   <div className="desc">
                   
                   <h3>HopHacks</h3>
@@ -32,7 +32,7 @@ export default class OnCampus extends Component {
               </div>
 							<div className="col-md-4 text-center animate-box">
                 <div className="services color-3">
-                <img src="images/iac_logo.png" style={styles}/>
+                <img src="images/iac_logo.png" style={styles} alt='iac'/>
                   <div className="desc">
                   
                     <h3>Inter-Asian Council</h3>
@@ -44,7 +44,7 @@ export default class OnCampus extends Component {
               </div>
               <div className="col-md-4 text-center animate-box">
                 <div className="services color-2">
-                <img src="images/husam_logo.png" style={styles}/>
+                <img src="images/husam_logo.png" style={styles} alt='husam'/>
                   <div className="desc">
                     <h3>Hopkins Undergraduate Society for Applied Math</h3>
                     <p>I am a member of HUSAM, which serves as Hopkins' Applied Math Club. 
